@@ -9,6 +9,7 @@
 ### 1. **Modern React Features**
 - Fully functional components with **React Hooks**, replacing class components for cleaner and more concise code.
 - Implements advanced state and side-effect management using:
+  
   - **useState** for local state management.
   - **useEffect** for handling side effects like data fetching or DOM updates.
   - **useReducer** for complex state logic.
@@ -41,6 +42,7 @@ To set up the ScholarVerse application locally, follow these steps:
     ```bash
     npm install
     ```
+    
 3. Start the Application: Launch the development server with:
 
    ```bash
