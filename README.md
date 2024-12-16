@@ -47,4 +47,12 @@ To set up the ScholarVerse application locally, follow these steps:
 
    ```bash
    npm start
-   ```    
+   ```
+
+---
+
+## Demo
+
+  ```
+  https://schollarverse.netlify.app/
+  ```
